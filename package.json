@@ -1,0 +1,10 @@
+{
+  "name": "webstorm-bug",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Piotr Goszczyński <piotr.goszczynski@setapp.pl>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}
